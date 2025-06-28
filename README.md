@@ -14,4 +14,4 @@
 
 ## Archiecture
 
-![architecture](./archiecture.jpeg)
+![architecture](./ETL-Pipeline-Architecture.png)
